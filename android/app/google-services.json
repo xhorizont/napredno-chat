@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4080215006",
+    "project_id": "chat-test-481fc",
+    "storage_bucket": "chat-test-481fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4080215006:android:701dc0e63b8fc87c35f34f",
+        "android_client_info": {
+          "package_name": "com.telekom.testchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sdO9rupfesItjWUAG4yDRX5uUFt0lME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
